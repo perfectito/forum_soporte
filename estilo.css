@@ -1,0 +1,32 @@
+body {
+  background-color: #8494ad;
+  color: #fff;
+  font-family: "Courier New", Courier, monospace;
+ }
+
+h1 {
+  font-size: 100 %;
+  margin-top: 60 %;
+}
+
+.boton {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 15px;
+  font-size: 85px;
+  font-weight: bold;
+  background-color: #1e3c67;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.boton:hover {
+  background-color: #FF4500;
+}
+
+.botones-container {
+  margin-top: 750px;
+  text-align: right;
+}
